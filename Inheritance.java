@@ -8,6 +8,7 @@ class Plane{
 	}
 	public void land() {
 		System.out.println("plane is landing");
+		System.out.println();
 	}
 }
 class CargoPlane extends Plane{
